@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3082
+status: Failed
+feedback:
+  message: |
+    Failed. Invalid implementation of toString()
+  time: Mon, 13 Jul 2020 16:19:19 UTC
+record: -1
